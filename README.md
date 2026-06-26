@@ -1,4 +1,4 @@
-<img width="774" height="468" alt="Image of PREMATURE BABIES" src="https://github.com/user-attachments/assets/e8401e07-df0a-4acd-b542-fe910cd0bc6b" /># Affordable and Portable Wireless Incubator for Premature Babies
+# Affordable and Portable Wireless Incubator for Premature Babies
 
 ## Overview
 
@@ -33,7 +33,8 @@ This project focuses on the design and development of an affordable and portable
 
 ## Circuit Diagram
 
-[Uploading Image of PREMATURE BABIES.jpeg…]
+<img width="774" height="468" alt="Image of PREMATURE BABIES" src="https://github.com/user-attachments/assets/e8401e07-df0a-4acd-b542-fe910cd0bc6b" /># Affordable and Portable Wireless Incubator for Premature Babies
+
 
 ## Results and Analysis
 
